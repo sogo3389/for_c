@@ -5,7 +5,7 @@ int main()
 
     printf("홀수를 입력하세요.");
     scanf_s("%d", &o);
-
+//dsd
     if (o % 2 == 1) {
         for (i = 0; i < o; i++)
         {
